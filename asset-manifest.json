@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NexusNews/static/css/main.dc4d6ff2.css",
-    "main.js": "/NexusNews/static/js/main.16e88802.js",
+    "main.js": "/NexusNews/static/js/main.bb7671f5.js",
     "static/js/592.d53f2e83.chunk.js": "/NexusNews/static/js/592.d53f2e83.chunk.js",
     "static/media/loading.gif": "/NexusNews/static/media/loading.d3fbaf2b81fd92c49692.gif",
     "index.html": "/NexusNews/index.html",
     "main.dc4d6ff2.css.map": "/NexusNews/static/css/main.dc4d6ff2.css.map",
-    "main.16e88802.js.map": "/NexusNews/static/js/main.16e88802.js.map",
+    "main.bb7671f5.js.map": "/NexusNews/static/js/main.bb7671f5.js.map",
     "592.d53f2e83.chunk.js.map": "/NexusNews/static/js/592.d53f2e83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.16e88802.js"
+    "static/js/main.bb7671f5.js"
   ]
 }
